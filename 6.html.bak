@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>My Portfolio :: Home </title>
+</head>
+<body>
+<img src="me.jpg" alt="My Photo" align="right">
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<h1 align="right">Harshal Khairnar </h1>
+<h2 align="right">Walchand College of Engineering, Sangli</h2>
+<table>
+<tr>
+<td>
+Name:</td>
+
+<td>
+Harshal Khairnar
+
+</td>
+</tr>
+
+<tr>
+<td>
+Date of Birth
+</td>
+<td>
+June 04 1995
+</td>
+</tr>
+
+<tr>
+<td>
+Address:
+</td>
+<td>
+Sangli
+</td>
+</tr>
+
+
+<tr>
+<td>
+Email:
+</td>
+
+<td>
+harshal@cbainc.in
+</td>
+</tr>
+
+<tr>
+<td>
+Phone:
+</td>
+
+<td>
++91 94 03 575 061
+</td>
+</tr>
+
+<tr>
+<td>
+Website:
+</td>
+
+<td>
+http://cbainc.in
+</td>
+</tr>
+
+</table>
+<p>I am an aspiring Computer Sciences & Engineering student pursuing my graduation from one of the top ranking Engineering College in Maharashtra. 
+I have also completed Diploma in Computer Engineering from a top rank Polytechnic Institute in State of Maharashtra.
+</p>
+</body>
+</html>

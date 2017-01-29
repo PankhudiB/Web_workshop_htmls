@@ -1,0 +1,117 @@
+<html>
+<head>
+<title>My Portfolio :: Home </title>
+</head>
+<body>
+<div id="info">
+<table cellspacing="5" cellpadding="5" border="5">
+<tr>
+<td>
+<table cellspacing="5" cellpadding="5" border="5">
+
+<tr>
+<td>
+Name:</td>
+
+<td>
+Harshal Khairnar
+
+</td>
+</tr>
+
+<tr>
+<td>
+Date of Birth
+</td>
+<td>
+June 04 1995
+</td>
+</tr>
+
+<tr>
+<td>
+Address:
+</td>
+<td>
+Sangli
+</td>
+</tr>
+
+
+<tr>
+<td>
+Email:
+</td>
+
+<td>
+harshal@cbainc.in
+</td>
+</tr>
+
+<tr>
+<td>
+Phone:
+</td>
+
+<td>
++91 94 03 575 061
+</td>
+</tr>
+
+<tr>
+<td>
+Website:
+</td>
+
+<td>
+http://cbainc.in
+</td>
+</tr>
+
+</table>
+
+<p>I am an aspiring Computer Sciences & Engineering student pursuing my graduation from one of the top ranking Engineering College in Maharashtra. 
+I have also completed Diploma in Computer Engineering from a top rank Polytechnic Institute in State of Maharashtra.
+</p>
+</td>
+<td>
+<img src="me.jpg" alt="My Photo" align="right">
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<h1 align="right">Harshal Khairnar </h1>
+<h2 align="right">Walchand College of Engineering, Sangli</h2>
+</td>
+</tr>
+</table>
+</div>
+<div id="contact">
+<h1> Contact Form </h1>
+<form>
+<table>
+<tr>
+<td>
+Name:
+</td>
+<td>
+<input type="text" name="name" id="name">
+</td>
+</tr>
+<tr>
+<td>
+Email:
+</td>
+<td>
+<input type="email" name="email" id="email">
+</td>
+</tr>
+<tr>
+<td>Message:
+</td>
+<td>
+<textarea name="message" id="message"></textarea>
+</td>
+</tr>
+</table>
+</form>
+</div>
+</body>
+</html>

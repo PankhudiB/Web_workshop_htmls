@@ -1,0 +1,2 @@
+Just started to work on git.
+We are at the very basic of it.Just adding the first file. 
